@@ -19,6 +19,9 @@
 .DS_Store
 Thumbs.db
 *.pem
+/.idea
+/.fleet
+/.vscode
 
 # debug
 npm-debug.log*
